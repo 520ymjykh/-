@@ -1,0 +1,21 @@
+//
+//  News-PrefixHeader.pch
+//  NewsReading
+//
+//  Created by 千锋 on 16/2/25.
+//  Copyright (c) 2016年 mobiletrain. All rights reserved.
+//
+
+#ifndef NewsReading_News_PrefixHeader_pch
+#define NewsReading_News_PrefixHeader_pch
+
+#include "AFNetworking.h"
+#include "MJRefresh.h"
+#include "UIImageView+WebCache.h"
+
+#include "YYModel.h"
+#include "FMDB.h"
+
+
+
+#endif
